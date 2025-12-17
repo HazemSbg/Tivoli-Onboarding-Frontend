@@ -8,5 +8,5 @@ export default defineConfig({
       react(),
       tailwindcss(),
   ],
-    base: '/hazem-onboarding/'
+    base: '/Tivoli-Onboarding-Frontend/'
 })
